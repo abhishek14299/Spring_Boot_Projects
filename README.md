@@ -3,5 +3,6 @@
   <h2>Project List</h2>
   <ul>
     <li>RESTfull Web Services</li>
+    <li>Spring Boot JPA CRUD</li>
   </ul>
 </pre>
